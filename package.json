@@ -1,5 +1,5 @@
 {
-  "name": "@arkhitech/jquery-minicolors",
+  "name": "jquery-minicolors-webpack",
   "version": "2.2.6",
   "description": "jQuery MiniColors Plugin Forked from claviska/jquery-minicolors",
   "main": "jquery.minicolors.js",
